@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navbar-sidebar-react-app/static/css/main.9088c4de.css",
+    "main.js": "/navbar-sidebar-react-app/static/js/main.1e4412f4.js",
+    "static/media/phone.svg": "/navbar-sidebar-react-app/static/media/phone.94a7a4fe1f82aed65bc22c10a1c6d6ef.svg",
+    "static/media/logo.svg": "/navbar-sidebar-react-app/static/media/logo.6ad422bb585e8c12e29343696a1349aa.svg",
+    "index.html": "/navbar-sidebar-react-app/index.html",
+    "main.9088c4de.css.map": "/navbar-sidebar-react-app/static/css/main.9088c4de.css.map",
+    "main.1e4412f4.js.map": "/navbar-sidebar-react-app/static/js/main.1e4412f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9088c4de.css",
+    "static/js/main.1e4412f4.js"
+  ]
+}
